@@ -14,4 +14,4 @@
 
 1. Clonează acest repository:
    ```bash
-   git clone https://github.com/username/resumemaster.git
+   git clone https://github.com/dnx01/ResumeMaster
